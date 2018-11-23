@@ -1,0 +1,7 @@
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\bin\Debug\ConsoleThreadingApplication.exe.config
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\bin\Debug\ConsoleThreadingApplication.exe
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\bin\Debug\ConsoleThreadingApplication.pdb
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\obj\Debug\ConsoleThreadingApplication.csprojAssemblyReference.cache
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\obj\Debug\ConsoleThreadingApplication.csproj.CoreCompileInputs.cache
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\obj\Debug\ConsoleThreadingApplication.exe
+D:\Self Practice\Threading\ConsoleThreadingApplication\ConsoleThreadingApplication\obj\Debug\ConsoleThreadingApplication.pdb
